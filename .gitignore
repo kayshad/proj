@@ -13,5 +13,6 @@ application/cache
 *.code-workspace
 *.__pycache__
 media
+*.examples_scenes
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode
