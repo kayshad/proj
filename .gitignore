@@ -11,6 +11,6 @@ application/cache
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-!.__pycache__/a.cpython-39.pyc
+__pycache__/
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode
